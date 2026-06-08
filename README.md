@@ -178,7 +178,7 @@ Both will appear automatically once the files are in the `images/` folder with t
 If your **WhatsApp number** changes:
 
 1. Open `index.html`
-2. Press **Ctrl + F** (or Cmd + F on Mac) and search for `97336794271`
+2. Press **Ctrl + F** (or Cmd + F on Mac) and search for `97335348876`
 3. Replace every instance with your new number (digits only, no + sign, no spaces)
 
 If your **Instagram handle** changes:
