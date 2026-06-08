@@ -157,7 +157,7 @@ function buildCard(product, delay = 0) {
   const waText = encodeURIComponent(
     `Hi Tanya! I'm interested in ordering "${product.name}". Could you please share more details and check availability?`
   );
-  const waLink = `https://wa.me/97336794271?text=${waText}`;
+  const waLink = `https://wa.me/97335348876?text=${waText}`;
 
   // Render image if path is provided; otherwise show placeholder
   const imageHtml = product.image
