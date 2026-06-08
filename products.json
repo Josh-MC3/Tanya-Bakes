@@ -1,176 +1,175 @@
 {
   "categories": [
     "Birthday Cakes",
-    "Wedding Cakes",
+    "Cheesecakes",
     "Custom Cakes",
-    "Cupcakes",
-    "Seasonal Specials"
+    "Mini Treats"
   ],
   "products": [
 
     {
       "id": "1",
-      "name": "Classic Floral Birthday Cake",
-      "category": "Birthday Cakes",
-      "description": "A beautifully decorated birthday cake adorned with handcrafted sugar flowers. Available in a variety of flavours and sizes to suit every celebration.",
-      "price": "18.000 BD",
+      "name": "Chocolate Berry Cheesecake",
+      "category": "Cheesecakes",
+      "description": "A decadent cheesecake built on a deep, crumbly dark chocolate crust and crowned with a lavish arrangement of plump fresh strawberries and blueberries dusted in powdered sugar. The contrast between the intense cocoa base and the bright, juicy berries makes this as breathtaking to look at as it is to taste.",
+      "price": "15.000 BD",
       "featured": true,
       "badge": "Popular",
-      "image": "images/birthday-floral.jpg"
+      "image": "images/chocolate-cheesecake-berries.jpg"
     },
+
     {
       "id": "2",
-      "name": "Chocolate Drip Cake",
+      "name": "Frosted Carrot Cake",
       "category": "Birthday Cakes",
-      "description": "Rich, indulgent chocolate cake with a gorgeous drip finish, topped with fresh berries and delicate gold leaf accents.",
-      "price": "15.000 BD",
-      "featured": false,
-      "badge": "",
-      "image": "images/birthday-choco-drip.jpg"
-    },
-    {
-      "id": "3",
-      "name": "Rainbow Layer Cake",
-      "category": "Birthday Cakes",
-      "description": "A vibrant showstopper with multi-coloured layers inside and smooth pastel frosting outside. The ultimate birthday centrepiece.",
-      "price": "20.000 BD",
-      "featured": false,
-      "badge": "",
-      "image": "images/birthday-rainbow.jpg"
-    },
-    {
-      "id": "4",
-      "name": "Minimalist Buttercream Cake",
-      "category": "Birthday Cakes",
-      "description": "Elegant and modern, this understated beauty features smooth palette-knife textured buttercream with subtle floral accents.",
+      "description": "Warmly spiced, incredibly moist carrot cake blanketed in wave-piped cream cheese frosting — rich, tangy, and impossibly smooth. Adorned with plump blueberries, toasted walnut crumbles, jewel-like dried cranberries, and fresh rosemary sprigs for a finish that is both rustic and beautifully refined.",
       "price": "14.000 BD",
       "featured": false,
       "badge": "",
-      "image": "images/birthday-buttercream.jpg"
+      "image": "images/carrot-cake-frosted.jpg"
+    },
+
+    {
+      "id": "3",
+      "name": "Red Velvet Berry Celebration Cake",
+      "category": "Birthday Cakes",
+      "description": "Silky cream cheese frosting is edged with a crown of delicate piped rosettes and a vivid red velvet crumb centre. Fresh strawberries, plump blueberries, and golden physalis berries create a dramatic jewel-toned topping, while the rich, velvety cocoa layers beneath make every single slice utterly unforgettable.",
+      "price": "16.000 BD",
+      "featured": false,
+      "badge": "",
+      "image": "images/red-velvet-cake-frosted.jpg"
+    },
+
+    {
+      "id": "4",
+      "name": "Classic Strawberry Cheesecake",
+      "category": "Cheesecakes",
+      "description": "A luxuriously smooth cream cheese filling nestled on a buttery golden crust, blanketed edge to edge with a generous, glistening layer of freshly sliced strawberries in a sweet glaze. Clean, elegant, and utterly satisfying — the definitive strawberry cheesecake for those who appreciate quality over complexity.",
+      "price": "13.000 BD",
+      "featured": false,
+      "badge": "",
+      "image": "images/strawberry-cheesecake.jpg"
     },
 
     {
       "id": "5",
-      "name": "Elegant White Wedding Cake",
-      "category": "Wedding Cakes",
-      "description": "A stunning three-tier wedding cake decorated with delicate hand-piped lacework and fresh white blooms. Serves 80–100 guests.",
-      "price": "65.000 BD",
+      "name": "Gold-Crowned Chocolate Berry Cake",
+      "category": "Birthday Cakes",
+      "description": "An intensely rich chocolate cake enveloped in deeply dark, velvety chocolate buttercream, each swirl hand-piped with lush precision. Crowned with gold-leafed strawberries, fresh blueberries, and fragrant mint — a luxurious combination of deep cocoa, fresh fruit, and edible gold that genuinely stops the room.",
+      "price": "18.000 BD",
       "featured": true,
       "badge": "Signature",
-      "image": "images/wedding-white-elegant.jpg"
+      "image": "images/chocolate-cake-berries.jpg"
     },
+
     {
       "id": "6",
-      "name": "Rustic Floral Wedding Cake",
-      "category": "Wedding Cakes",
-      "description": "A romantic two-tier cake with a textured naked-buttercream finish and cascading fresh floral accents. Serves 50–70 guests.",
-      "price": "55.000 BD",
+      "name": "Strawberry Crown Cream Cake",
+      "category": "Birthday Cakes",
+      "description": "Ethereally light cake coated in clouds of smooth whipped cream, with an elegant piped border framing a glorious centrepiece of tightly arranged fresh strawberries kissed with delicate gold leaf. The contrast of pristine ivory frosting against vibrant scarlet berries is pure, effortless visual poetry.",
+      "price": "15.000 BD",
       "featured": false,
       "badge": "",
-      "image": "images/wedding-rustic-floral.jpg"
+      "image": "images/strawberry-cheesecake-frosted.jpg"
     },
+
     {
       "id": "7",
-      "name": "Modern Geometric Wedding Cake",
-      "category": "Wedding Cakes",
-      "description": "A sleek, contemporary design with geometric fondant panels and brushed gold metallic accents. Perfect for the modern couple. Serves 80+ guests.",
-      "price": "70.000 BD",
+      "name": "Coconut Berry Celebration Cake",
+      "category": "Custom Cakes",
+      "description": "A delicate coconut-infused cake adorned with piped cream rosettes, fresh strawberries, blueberries, and shimmering gold leaf flakes, elegantly finished with a personalised ribbon and custom name board. Every element is thoughtfully crafted to make your celebration feel genuinely one-of-a-kind — custom lettering and ribbons available upon request.",
+      "price": "16.000 BD",
       "featured": false,
-      "badge": "",
-      "image": "images/wedding-geometric.jpg"
+      "badge": "Custom",
+      "image": "images/coconut-cake-berries.jpg"
     },
 
     {
       "id": "8",
-      "name": "Sculpted Character Cake",
-      "category": "Custom Cakes",
-      "description": "A fully sculpted and hand-painted cake featuring any character, theme, or figure. Every detail is tailored to your vision — truly one of a kind.",
-      "price": "From 25.000 BD",
-      "featured": true,
-      "badge": "Custom",
-      "image": "images/custom-character.jpg"
+      "name": "Rustic Carrot Cream Cake",
+      "category": "Birthday Cakes",
+      "description": "A beautifully unpretentious carrot cake with an exposed golden edge and a billowing topping of hand-piped cream cheese frosting waves. Scattered with fresh blueberries, toasted walnuts, dried cranberries, and delicate rosemary — warmly rustic, elegantly garnished, and deeply delicious from first bite to last.",
+      "price": "13.000 BD",
+      "featured": false,
+      "badge": "",
+      "image": "images/carrot-cake.jpg"
     },
+
     {
       "id": "9",
-      "name": "Edible Photo Print Cake",
-      "category": "Custom Cakes",
-      "description": "A delicious cake featuring an edible printed photo of your choice — perfect for birthdays, anniversaries, and graduations.",
-      "price": "22.000 BD",
+      "name": "Artisan Mini Fruit Cakes — Box of 6",
+      "category": "Mini Treats",
+      "description": "Charming individual cakes topped with hand-piped cream rosettes, fresh blueberries, a vibrant yellow blossom, and toasted nuts — each one a tiny, thoughtfully crafted masterpiece. Baked from a tender spiced base and boxed beautifully, they make a stunning dessert table addition or a heartfelt gift for someone very special.",
+      "price": "12.000 BD",
       "featured": false,
-      "badge": "",
-      "image": "images/custom-photo.jpg"
+      "badge": "Great for Gifting",
+      "image": "images/blueberry-cupcakes.jpg"
     },
+
     {
       "id": "10",
-      "name": "Themed Celebration Cake",
+      "name": "Coconut Buttercream Garden Sheet Cake",
       "category": "Custom Cakes",
-      "description": "Fully customised to any theme — sports, hobbies, movies, careers, and more. Every detail is crafted to bring your idea to life.",
-      "price": "From 20.000 BD",
+      "description": "An extraordinary large-format celebration cake bordered by an immaculate garden of sage green and ivory buttercream rosettes, golden pearl accents, and hand-placed white butterflies. The luscious, textured coconut centre is the perfect canvas for custom lettering in sparkling gold — a true showstopper for any milestone or gathering.",
+      "price": "20.000 BD",
       "featured": false,
-      "badge": "",
-      "image": "images/custom-themed.jpg"
+      "badge": "Custom",
+      "image": "images/coconut-butter-cream-cake-sheet.jpg"
     },
 
     {
       "id": "11",
-      "name": "Assorted Cupcakes — Box of 12",
-      "category": "Cupcakes",
-      "description": "A gorgeous gift box of 12 cupcakes in assorted flavours, each topped with decorative buttercream swirls. Ideal for parties and gifting.",
-      "price": "10.000 BD",
+      "name": "Coconut Daisy Cream Cake",
+      "category": "Birthday Cakes",
+      "description": "Pure, radiant elegance — a cloud-white coconut cake encircled by fluted cream rosettes and adorned with cheerful fresh yellow daisies and glistening gold pearl accents. The textured snow-white top and delicate floral wreath give this cake an effortless, garden-party charm that is perfect for any joyful occasion.",
+      "price": "16.000 BD",
       "featured": false,
-      "badge": "Great for Gifting",
-      "image": "images/cupcakes-assorted.jpg"
+      "badge": "",
+      "image": "images/coconut-cake-yellow.jpg"
     },
+
     {
       "id": "12",
-      "name": "Custom Frosted Cupcakes — Box of 12",
-      "category": "Cupcakes",
-      "description": "Beautifully frosted cupcakes personalised with your choice of flavour, colour, and decorations. Perfect for any occasion.",
-      "price": "12.000 BD",
-      "featured": false,
-      "badge": "",
-      "image": "images/cupcakes-custom.jpg"
+      "name": "Blooming Butterfly Celebration Cake",
+      "category": "Custom Cakes",
+      "description": "An absolutely breathtaking creation — every inch blanketed in a riot of hand-piped buttercream blooms in soft pinks, purples, blues, and peaches, studded with shimmering gold and coral spheres. Spectacular hand-crafted butterflies take flight across the surface, making this a true work of edible art for life's grandest, most unforgettable celebrations.",
+      "price": "20.000 BD",
+      "featured": true,
+      "badge": "Signature",
+      "image": "images/cocnut-butter-cream-cake-butterfly.jpg"
     },
+
     {
       "id": "13",
-      "name": "Mini Cupcake Tower — 24 Pieces",
-      "category": "Cupcakes",
-      "description": "An impressive tiered tower of 24 beautifully decorated mini cupcakes. A stunning centrepiece and a crowd favourite at any event.",
-      "price": "18.000 BD",
+      "name": "Blueberry Cream Cheesecake",
+      "category": "Cheesecakes",
+      "description": "A silky smooth cheesecake on a golden biscuit base, framed by a scalloped border of hand-piped whipped cream and piled sky-high with an abundant mountain of fresh, glossy blueberries in a rich compote. Scattered with gold leaf and rosemary, it strikes the perfect balance between deeply indulgent and beautifully refined.",
+      "price": "15.000 BD",
       "featured": false,
       "badge": "",
-      "image": "images/cupcakes-tower.jpg"
+      "image": "images/blueberry-cheesecake.jpg"
     },
 
     {
       "id": "14",
-      "name": "Eid Celebration Cake",
-      "category": "Seasonal Specials",
-      "description": "A stunning cake celebrating Eid, adorned with crescent and star motifs, gold leaf accents, and festive floral details. Perfect for your gathering.",
-      "price": "28.000 BD",
+      "name": "Naked Red Velvet Cake",
+      "category": "Birthday Cakes",
+      "description": "Bold and unapologetically beautiful — this rustic naked-style red velvet lets its deep, jewel-red layers speak for themselves, finished with a crown of cream cheese rosettes, fresh strawberries, blueberries, and a bright yellow daisy. The exposed sides reveal a stunning crimson crumb, making every slice as dramatic to cut as it is delicious to eat.",
+      "price": "14.000 BD",
       "featured": false,
-      "badge": "Seasonal",
-      "image": "images/seasonal-eid.jpg"
+      "badge": "",
+      "image": "images/red-velvet-cake.jpg"
     },
+
     {
       "id": "15",
-      "name": "Valentine's Heart Cake",
-      "category": "Seasonal Specials",
-      "description": "A romantic heart-shaped cake made for Valentine's Day or anniversaries. Decorated with velvety red roses and gold foil details.",
-      "price": "16.000 BD",
+      "name": "Rose Garden Birthday Cake",
+      "category": "Birthday Cakes",
+      "description": "A breathtaking explosion of hand-piped buttercream roses and blooms in a vibrant ombré of deep red, coral, and blush pink, covering every inch of this magnificent cake. Pearl accents glimmer between the flowers, and the effect is nothing short of wearable art — for birthdays that truly deserve something extraordinary.",
+      "price": "18.000 BD",
       "featured": false,
-      "badge": "Seasonal",
-      "image": "images/seasonal-valentines.jpg"
-    },
-    {
-      "id": "16",
-      "name": "New Year Celebration Cake",
-      "category": "Seasonal Specials",
-      "description": "Ring in the New Year in style with a showstopping celebration cake featuring champagne-inspired designs, gold lustre, and sparkle accents.",
-      "price": "20.000 BD",
-      "featured": false,
-      "badge": "Seasonal",
-      "image": "images/seasonal-newyear.jpg"
+      "badge": "Popular",
+      "image": "images/floral-birthday-cake.jpg"
     }
 
   ]
