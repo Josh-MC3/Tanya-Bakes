@@ -83,7 +83,7 @@
       "name": "Mixed Berry Cheesecake",
       "category": "Cheesecakes",
       "description": "A classic baked cheesecake bordered with hand-piped cream rosettes, finished with a glistening berry compote, an abundance of blueberries and fresh strawberries, and delicate thyme sprigs. Elegant, fresh, and satisfying to the last bite.",
-      "price": "22.000 BD",
+      "price": "22.500 BD",
       "featured": false,
       "badge": "",
       "image": "images/blueberry-cheesecake-with-strawberries.jpg"
@@ -93,7 +93,7 @@
       "name": "Lemon Curd & Thyme Cake",
       "category": "Birthday Cakes",
       "description": "A light, airy cake wrapped in smooth whipped cream and crowned with a luminous pool of golden lemon curd, dressed with caramelised lemon slices and a delicate garland of fresh thyme. Bright, zesty, and elegantly understated.",
-      "price": "16.000 BD",
+      "price": "15.000 BD",
       "featured": false,
       "badge": "",
       "image": "images/lemon-cake-with-lemon-top.jpg"
@@ -123,7 +123,7 @@
       "name": "Red Velvet Strawberry Dream",
       "category": "Birthday Cakes",
       "description": "A luscious red velvet cake swathed in smooth cream cheese frosting and coated with a fine dusting of red velvet crumbs, crowned with a beautiful ring of plump whole and halved fresh strawberries. Classic flavour, show-stopping presentation.",
-      "price": "18.000 BD",
+      "price": "22.000 BD",
       "featured": false,
       "badge": "",
       "image": "images/red-velvet-cake-strawberries.jpg"
@@ -263,7 +263,7 @@
       "name": "Classic Red Velvet Naked Cake",
       "category": "Birthday Cakes",
       "description": "A beautifully simple exposed-layer red velvet sponge with cream cheese frosting piped around the top edge, decorated with fresh strawberries, blueberries and a vibrant yellow daisy. Rustic, colourful and full of charm.",
-      "price": "18.000 BD",
+      "price": "16.000 BD",
       "featured": false,
       "badge": "",
       "image": "images/red-velvet-cake.jpg"
@@ -273,7 +273,7 @@
       "name": "Pink Floral Birthday Cake",
       "category": "Birthday Cakes",
       "description": "A breathtaking cake entirely covered in hand-piped buttercream blooms in rich shades of deep coral, rose pink and red, scattered with pearl bead accents and crowned with a Happy Birthday topper. A floral masterpiece that doubles as a centrepiece.",
-      "price": "22.000 BD",
+      "price": "25.000 BD",
       "featured": true,
       "badge": "New",
       "image": "images/floral-birthday-cake.jpg"
@@ -283,7 +283,7 @@
       "name": "Biscoff Cheesecake",
       "category": "Cheesecakes",
       "description": "A deeply indulgent Biscoff cheesecake with a silky caramel-hued glaze, generously topped with crushed Lotus biscuit crumble and whole Biscoff cookies standing upright. Warming, caramel-spiced, and utterly irresistible.",
-      "price": "24.000 BD",
+      "price": "23.500 BD",
       "featured": false,
       "badge": "New",
       "image": "images/biscoff-cheesecake.jpg"
@@ -303,7 +303,7 @@
       "name": "Chocolate Birthday Cheesecake with Berries",
       "category": "Cheesecakes",
       "description": "A rich, dark chocolate cheesecake on a chocolate crumb crust, piled high with plump fresh strawberries and blueberries and dusted with icing sugar snow. A show-stopping centrepiece for any birthday celebration.",
-      "price": "26.000 BD",
+      "price": "26.500 BD",
       "featured": false,
       "badge": "",
       "image": "images/chocolate-cheesecake-berries.jpg"
@@ -343,7 +343,7 @@
       "name": "Mini Blueberry Cream Cakes",
       "category": "Mini Treats",
       "description": "Petite individual cakes presented in decorative tins, topped with silky vanilla cream rosettes, a plump fresh blueberry, gold pearl beads and a delicate sprig of thyme. A refined little indulgence for any occasion.",
-      "price": "3.500 BD each",
+      "price": "4.000 BD each",
       "featured": false,
       "badge": "",
       "image": "images/mini-blueberry-cake.jpg"
@@ -353,7 +353,7 @@
       "name": "Mini Red Velvet Cakes",
       "category": "Mini Treats",
       "description": "Individual portion red velvet cakes presented in elegant tins, finished with a fine red velvet crumb dusting and a glistening whole fresh strawberry on top. Beautiful, festive and perfectly portioned.",
-      "price": "3.500 BD each",
+      "price": "4.000 BD each",
       "featured": false,
       "badge": "",
       "image": "images/mini-red-velvet-cake.jpg"
@@ -363,7 +363,7 @@
       "name": "Mini Carrot Cake",
       "category": "Mini Treats",
       "description": "An individual carrot cake portion served in a decorative tin, topped with cream cheese frosting rosettes, a glazed cherry, crushed nuts and a sprig of rosemary. All the warmth of a full cake in a single elegant serving.",
-      "price": "3.500 BD each",
+      "price": "4.000 BD each",
       "featured": false,
       "badge": "",
       "image": "images/mini-carrot-cake.jpg"
@@ -373,7 +373,7 @@
       "name": "Mini Chocolate Hazelnut Cake",
       "category": "Mini Treats",
       "description": "An individual chocolate cake with a glossy ganache drip, a Ferrero Rocher hazelnut truffle, fresh strawberries and blueberries, finished with a sprig of rosemary. Rich, indulgent and beautifully presented.",
-      "price": "4.000 BD each",
+      "price": "8.000 BD each",
       "featured": false,
       "badge": "",
       "image": "images/mini-chocolate-cake.jpg"
@@ -413,7 +413,7 @@
       "name": "Coconut Buttercream Sheet Cake",
       "category": "Coconut Cakes",
       "description": "A stunning rectangular sheet cake with lush coconut buttercream, hand-piped sage green and cream floral borders, shimmering edible butterfly wafers and gold accents. Personalised with your message in gold letter decorations. Perfect for farewells, celebrations and large gatherings.",
-      "price": "From 35.000 BD",
+      "price": "From 32.000 BD",
       "featured": false,
       "badge": "Custom",
       "image": "images/coconut-butter-cream-cake-sheet.jpg"
@@ -433,7 +433,7 @@
       "name": "Rainbow Butterfly Buttercream Cake",
       "category": "Coconut Cakes",
       "description": "A spectacular coconut cake entirely covered in multicolour buttercream rosettes and star-tip blooms — pink, lavender, blue, cream and coral — adorned with shimmering edible butterfly wafers and candy pearls. A joyful, exuberant showstopper.",
-      "price": "From 30.000 BD",
+      "price": "From 32.000 BD",
       "featured": false,
       "badge": "New",
       "image": "images/cocnut-butter-cream-cake-butterfly.jpg"
