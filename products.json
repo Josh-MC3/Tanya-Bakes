@@ -89,16 +89,6 @@
       "image": "images/lemon-cake-with-lemon-top.jpg"
     },
     {
-      "id": "27",
-      "name": "Sourdough Loaf Gift Set",
-      "category": "Sourdough Bread",
-      "description": "Two freshly baked sourdough loaves of your choice — classic, sesame, or cranberry and walnut — sliced and presented in signature Tanyabake branded kraft bags with our handcrafted seal. A thoughtful, delicious gift for any bread lover.",
-      "price": "From 6.000 BD",
-      "featured": false,
-      "badge": "Great for Gifting",
-      "image": "images/packaged-sourdough-assorted.jpg"
-    },
-    {
       "id": "28",
       "name": "Red Velvet Strawberry Dream",
       "category": "Birthday Cakes",
