@@ -19,16 +19,6 @@
       "image": "images/dark-chocolate-cake.jpg"
     },
     {
-      "id": "18",
-      "name": "Sesame Seed Sourdough Loaf",
-      "category": "Sourdough Bread",
-      "description": "A hand-shaped round loaf slow-fermented for a deep, nutty flavour and an open, chewy crumb, with a crackling golden crust generously coated in toasted black sesame seeds. Baked fresh to order and best enjoyed warm from the bag.",
-      "price": "3.500 BD",
-      "featured": false,
-      "badge": "",
-      "image": "images/sourdough-sesame.jpg"
-    },
-    {
       "id": "19",
       "name": "Spiced Carrot Cake with Glacé Cherries",
       "category": "Birthday Cakes",
@@ -52,7 +42,7 @@
       "id": "21",
       "name": "Carrot & Walnut Cake with Cherries",
       "category": "Birthday Cakes",
-      "description": "A generously spiced carrot and walnut cake cloaked in caramel-hued cream cheese frosting textured with sweeping hand-crafted waves, finished with clusters of glazed cherries, crushed walnuts, and sprigs of fresh rosemary. Rich, nutty, and unmistakably san.",
+      "description": "A generously spiced carrot and walnut cake cloaked in caramel-hued cream cheese frosting textured with sweeping hand-crafted waves, finished with clusters of glazed cherries, crushed walnuts, and sprigs of fresh rosemary. Rich, nutty, and unmistakably artisan.",
       "price": "18.000 BD",
       "featured": false,
       "badge": "",
@@ -83,7 +73,7 @@
       "name": "Mixed Berry Cheesecake",
       "category": "Cheesecakes",
       "description": "A classic baked cheesecake bordered with hand-piped cream rosettes, finished with a glistening berry compote, an abundance of blueberries and fresh strawberries, and delicate thyme sprigs. Elegant, fresh, and satisfying to the last bite.",
-      "price": "22.500 BD",
+      "price": "22.000 BD",
       "featured": false,
       "badge": "",
       "image": "images/blueberry-cheesecake-with-strawberries.jpg"
@@ -93,20 +83,10 @@
       "name": "Lemon Curd & Thyme Cake",
       "category": "Birthday Cakes",
       "description": "A light, airy cake wrapped in smooth whipped cream and crowned with a luminous pool of golden lemon curd, dressed with caramelised lemon slices and a delicate garland of fresh thyme. Bright, zesty, and elegantly understated.",
-      "price": "15.000 BD",
+      "price": "16.000 BD",
       "featured": false,
       "badge": "",
       "image": "images/lemon-cake-with-lemon-top.jpg"
-    },
-    {
-      "id": "26",
-      "name": "Classic Sourdough Loaf",
-      "category": "Sourdough Bread",
-      "description": "A traditionally leavened sourdough with a blistered, golden crust and an open, chewy crumb — the result of a long cold ferment. Available plain or with additions such as cranberry and walnut or mixed seeds; baked fresh to order.",
-      "price": "3.000 BD",
-      "featured": false,
-      "badge": "",
-      "image": "images/sourdough-plain-sliced.jpg"
     },
     {
       "id": "27",
@@ -123,7 +103,7 @@
       "name": "Red Velvet Strawberry Dream",
       "category": "Birthday Cakes",
       "description": "A luscious red velvet cake swathed in smooth cream cheese frosting and coated with a fine dusting of red velvet crumbs, crowned with a beautiful ring of plump whole and halved fresh strawberries. Classic flavour, show-stopping presentation.",
-      "price": "22.000 BD",
+      "price": "18.000 BD",
       "featured": false,
       "badge": "",
       "image": "images/red-velvet-cake-strawberries.jpg"
@@ -166,7 +146,7 @@
       "price": "15.000 BD",
       "featured": false,
       "badge": "",
-      "image": "images/carrot-cake-1.5-kg.jpg"
+      "image": "images/carrot-cake-1_5-kg.jpg"
     },
     {
       "id": "33",
@@ -202,11 +182,11 @@
       "id": "40",
       "name": "Carrot Cake (2.5 kg)",
       "category": "Birthday Cakes",
-      "description": "A generous 2.5 kg celebration carrot cake fully frosted in cream cheese, decorated with hand-piped rosettes, whole pecan halves, dried cranberries, crushed walnuts and a sprig of rosemary. Perfect for large pes and special milestones.",
+      "description": "A generous 2.5 kg celebration carrot cake fully frosted in cream cheese, decorated with hand-piped rosettes, whole pecan halves, dried cranberries, crushed walnuts and a sprig of rosemary. Perfect for large parties and special milestones.",
       "price": "25.000 BD",
       "featured": false,
       "badge": "",
-      "image": "images/carrot-cake-2.5-kg.jpg"
+      "image": "images/carrot-cake-2_5-kg.jpg"
     },
     {
       "id": "41",
@@ -263,7 +243,7 @@
       "name": "Classic Red Velvet Naked Cake",
       "category": "Birthday Cakes",
       "description": "A beautifully simple exposed-layer red velvet sponge with cream cheese frosting piped around the top edge, decorated with fresh strawberries, blueberries and a vibrant yellow daisy. Rustic, colourful and full of charm.",
-      "price": "16.000 BD",
+      "price": "18.000 BD",
       "featured": false,
       "badge": "",
       "image": "images/red-velvet-cake.jpg"
@@ -273,7 +253,7 @@
       "name": "Pink Floral Birthday Cake",
       "category": "Birthday Cakes",
       "description": "A breathtaking cake entirely covered in hand-piped buttercream blooms in rich shades of deep coral, rose pink and red, scattered with pearl bead accents and crowned with a Happy Birthday topper. A floral masterpiece that doubles as a centrepiece.",
-      "price": "25.000 BD",
+      "price": "22.000 BD",
       "featured": true,
       "badge": "New",
       "image": "images/floral-birthday-cake.jpg"
@@ -283,7 +263,7 @@
       "name": "Biscoff Cheesecake",
       "category": "Cheesecakes",
       "description": "A deeply indulgent Biscoff cheesecake with a silky caramel-hued glaze, generously topped with crushed Lotus biscuit crumble and whole Biscoff cookies standing upright. Warming, caramel-spiced, and utterly irresistible.",
-      "price": "23.500 BD",
+      "price": "24.000 BD",
       "featured": false,
       "badge": "New",
       "image": "images/biscoff-cheesecake.jpg"
@@ -303,7 +283,7 @@
       "name": "Chocolate Birthday Cheesecake with Berries",
       "category": "Cheesecakes",
       "description": "A rich, dark chocolate cheesecake on a chocolate crumb crust, piled high with plump fresh strawberries and blueberries and dusted with icing sugar snow. A show-stopping centrepiece for any birthday celebration.",
-      "price": "26.500 BD",
+      "price": "26.000 BD",
       "featured": false,
       "badge": "",
       "image": "images/chocolate-cheesecake-berries.jpg"
@@ -343,7 +323,7 @@
       "name": "Mini Blueberry Cream Cakes",
       "category": "Mini Treats",
       "description": "Petite individual cakes presented in decorative tins, topped with silky vanilla cream rosettes, a plump fresh blueberry, gold pearl beads and a delicate sprig of thyme. A refined little indulgence for any occasion.",
-      "price": "4.000 BD each",
+      "price": "3.500 BD each",
       "featured": false,
       "badge": "",
       "image": "images/mini-blueberry-cake.jpg"
@@ -353,7 +333,7 @@
       "name": "Mini Red Velvet Cakes",
       "category": "Mini Treats",
       "description": "Individual portion red velvet cakes presented in elegant tins, finished with a fine red velvet crumb dusting and a glistening whole fresh strawberry on top. Beautiful, festive and perfectly portioned.",
-      "price": "4.000 BD each",
+      "price": "3.500 BD each",
       "featured": false,
       "badge": "",
       "image": "images/mini-red-velvet-cake.jpg"
@@ -363,7 +343,7 @@
       "name": "Mini Carrot Cake",
       "category": "Mini Treats",
       "description": "An individual carrot cake portion served in a decorative tin, topped with cream cheese frosting rosettes, a glazed cherry, crushed nuts and a sprig of rosemary. All the warmth of a full cake in a single elegant serving.",
-      "price": "4.000 BD each",
+      "price": "3.500 BD each",
       "featured": false,
       "badge": "",
       "image": "images/mini-carrot-cake.jpg"
@@ -373,7 +353,7 @@
       "name": "Mini Chocolate Hazelnut Cake",
       "category": "Mini Treats",
       "description": "An individual chocolate cake with a glossy ganache drip, a Ferrero Rocher hazelnut truffle, fresh strawberries and blueberries, finished with a sprig of rosemary. Rich, indulgent and beautifully presented.",
-      "price": "8.000 BD each",
+      "price": "4.000 BD each",
       "featured": false,
       "badge": "",
       "image": "images/mini-chocolate-cake.jpg"
@@ -383,7 +363,7 @@
       "name": "Mini Artisan Cake Boxes",
       "category": "Mini Treats",
       "description": "Individual mini spiced cakes presented in elegant single-serve gift boxes, topped with cream cheese frosting rosettes, fresh blueberries, crushed nuts, dried fruit and a cheerful fresh daisy. A beautiful party favour or thoughtful gift.",
-      "price": "6.000 BD each",
+      "price": "4.000 BD each",
       "featured": false,
       "badge": "Great for Gifting",
       "image": "images/blueberry-cupcakes.jpg"
@@ -413,7 +393,7 @@
       "name": "Coconut Buttercream Sheet Cake",
       "category": "Coconut Cakes",
       "description": "A stunning rectangular sheet cake with lush coconut buttercream, hand-piped sage green and cream floral borders, shimmering edible butterfly wafers and gold accents. Personalised with your message in gold letter decorations. Perfect for farewells, celebrations and large gatherings.",
-      "price": "From 32.000 BD",
+      "price": "From 35.000 BD",
       "featured": false,
       "badge": "Custom",
       "image": "images/coconut-butter-cream-cake-sheet.jpg"
@@ -433,10 +413,70 @@
       "name": "Rainbow Butterfly Buttercream Cake",
       "category": "Coconut Cakes",
       "description": "A spectacular coconut cake entirely covered in multicolour buttercream rosettes and star-tip blooms — pink, lavender, blue, cream and coral — adorned with shimmering edible butterfly wafers and candy pearls. A joyful, exuberant showstopper.",
-      "price": "From 32.000 BD",
+      "price": "From 30.000 BD",
       "featured": false,
       "badge": "New",
       "image": "images/cocnut-butter-cream-cake-butterfly.jpg"
+    },
+    {
+      "id": "60",
+      "name": "Cranberry Walnut Sourdough",
+      "category": "Sourdough Bread",
+      "description": "A naturally leavened sourdough laced with tart dried cranberries and generous pockets of toasted walnut, baked to a deep golden crust around an airy, open crumb. Sweet, nutty and wonderfully balanced — equally at home with cheese or simply on its own.",
+      "price": "4.500 BD",
+      "featured": false,
+      "badge": "",
+      "image": "images/sourdough-cranberry-walnut.jpg"
+    },
+    {
+      "id": "61",
+      "name": "Jalapeño Cheddar Sourdough",
+      "category": "Sourdough Bread",
+      "description": "A bold, savoury sourdough swirled with sharp cheddar and bright slices of jalapeño folded throughout the open crumb, baked to a crisp golden crust. Spicy, cheesy and full of character — a standout for sandwiches or toasted on its own.",
+      "price": "4.000 BD",
+      "featured": false,
+      "badge": "",
+      "image": "images/sourdough-jalapeno-cheddar.jpg"
+    },
+    {
+      "id": "62",
+      "name": "Mixed Sesame Sourdough",
+      "category": "Sourdough Bread",
+      "description": "A naturally fermented sourdough generously studded with black and white sesame seeds throughout the dough, baked to a deeply golden, crackling crust. Nutty, aromatic and beautifully textured — a wonderful everyday loaf with real depth of flavour.",
+      "price": "3.000 BD",
+      "featured": false,
+      "badge": "",
+      "image": "images/sourdough-mixed-sesame.jpg"
+    },
+    {
+      "id": "63",
+      "name": "Flaxseed Sourdough",
+      "category": "Sourdough Bread",
+      "description": "A wholesome sourdough loaf studded throughout with flaxseed and a mix of seeds, slow-fermented for a tender, open crumb beneath a deeply golden crust. Earthy and satisfying, with a delicate nuttiness that pairs beautifully with butter or honey.",
+      "price": "3.300 BD",
+      "featured": false,
+      "badge": "",
+      "image": "images/sourdough-flaxseed.jpg"
+    },
+    {
+      "id": "64",
+      "name": "Classic Plain Sourdough",
+      "category": "Sourdough Bread",
+      "description": "A timeless, naturally leavened sourdough with a crisp golden crust and a light, airy crumb shaped by a long, slow ferment. Simple, versatile and beautifully made — the everyday loaf done right.",
+      "price": "2.500 BD",
+      "featured": false,
+      "badge": "",
+      "image": "images/sourdough-classic-plain.jpg"
+    },
+    {
+      "id": "65",
+      "name": "Thai Tea Macadamia Sourdough",
+      "category": "Sourdough Bread",
+      "description": "A striking amber-hued sourdough infused with fragrant Thai tea and studded with buttery whole macadamia nuts, baked to a richly coloured, tender crumb. Aromatic, distinctive and quietly luxurious — a truly one-of-a-kind loaf.",
+      "price": "4.500 BD",
+      "featured": false,
+      "badge": "New",
+      "image": "images/sourdough-thai-tea-macadamia.jpg"
     }
   ]
 }
